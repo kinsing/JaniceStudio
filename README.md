@@ -51,7 +51,7 @@
     <!--LEFT SLIDE MENU-->
     <nav class="cbp-spmenu cbp-spmenu-vertical cbp-spmenu-left" id="cbp-spmenu-s1">
         <h3>BIWAS</h3>
-        <a href="#">Call: +01-099-908-908</a>
+        <a href="#">Call: 406-903-555</a>
         <a href="#main-sec"><i class="fa fa-home fa-3x"></i>HOME</a>
         <a href="#about-sec"><i class="fa fa-microphone fa-3x"></i>ABOUT</a>
         <a href="#price-sec"><i class="fa fa-dollar fa-3x"></i>PRICING</a>
