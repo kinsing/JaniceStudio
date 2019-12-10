@@ -1,6 +1,7 @@
 /* General styles for all menus */
 .cbp-spmenu {
-	background: #47a3da;
+/*	background: #47a3da;*/
+	background: #a34db0;
 	position: fixed;
 }
 
